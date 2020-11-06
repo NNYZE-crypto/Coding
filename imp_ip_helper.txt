@@ -1,0 +1,60 @@
+import re
+
+regex = r"^\d*\.{1}.*\.{1}.*\.{1}\d*|(vlan )(.*)(.*add.*)(\d{2}\.{1}.*\.{1}.*\.{1}\d*)"
+
+test_str = ("10.218.192.1\n"
+	"==================================================\n"
+	"sh configuration nettools detail | grep \\d*\\.{1}.*\\.{1}.*\\.{1}\\d*\n"
+	"configure sntp-client primary 10.225.0.88 vr VR-Default\n"
+	"configure sntp-client secondary 10.225.0.7 vr VR-Default\n"
+	"configure bootprelay add 10.225.0.88 vr VR-Default\n"
+	"configure bootprelay vlan Default add 10.225.0.88\n"
+	"configure bootprelay vlan Clients add 10.192.10.42\n"
+	"configure bootprelay vlan Clients add 10.192.10.43\n"
+	"configure bootprelay vlan Clients add 10.218.193.11\n"
+	"configure bootprelay vlan Printer add 10.192.10.42\n"
+	"configure bootprelay vlan Printer add 10.192.10.43\n"
+	"configure bootprelay vlan Server add 10.192.10.42\n"
+	"configure bootprelay vlan Server add 10.192.10.43\n"
+	"configure bootprelay vlan Wifi-Ph1-VoicePh2 add 10.192.10.42\n"
+	"configure bootprelay vlan Wifi-Ph1-VoicePh2 add 10.192.10.43\n"
+	"configure bootprelay vlan Wifi-Ph2Vl250 add 10.192.10.42\n"
+	"configure bootprelay vlan Wifi-Ph2Vl250 add 10.192.10.43\n"
+	"configure bootprelay vlan Server-iLo add 10.192.10.42\n"
+	"configure bootprelay vlan Server-iLo add 10.192.10.43\n"
+	"configure bootprelay vlan Voice-Ph1Vl130 add 10.192.10.42\n"
+	"configure bootprelay vlan Voice-Ph1Vl130 add 10.192.10.43\n"
+	"--------------------------------------------------\n\n"
+	"##################################################\n\n\n"
+	"10.218.208.1\n"
+	"==================================================\n"
+	"sh configuration nettools detail | grep \\d*\\.{1}.*\\.{1}.*\\.{1}\\d*\n"
+	"configure sntp-client primary 10.225.0.88 vr VR-Default\n"
+	"configure sntp-client secondary 10.225.0.7 vr VR-Default\n"
+	"configure bootprelay add 10.225.0.88 vr VR-Default\n"
+	"configure bootprelay vlan Default add 10.225.0.88\n"
+	"configure bootprelay vlan Clients add 10.192.10.42\n"
+	"configure bootprelay vlan Clients add 10.192.10.43\n"
+	"configure bootprelay vlan Clients add 10.218.209.11\n"
+	"configure bootprelay vlan Printer add 10.192.10.42\n"
+	"configure bootprelay vlan Printer add 10.192.10.43\n"
+	"configure bootprelay vlan Server add 10.192.10.42\n"
+	"configure bootprelay vlan Server add 10.192.10.43\n"
+	"configure bootprelay vlan Wifi-Ph1-VoicePh2 add 10.225.0.88\n"
+	"configure bootprelay vlan Wifi-Ph2Vl250 add 10.225.0.88\n"
+	"--------------------------------------------------\n\n"
+	"##################################################")
+
+matches = re.finditer(regex, test_str, re.MULTILINE)
+
+for matchNum, match in enumerate(matches, start=1):
+
+    print ("Match {matchNum} was found at {start}-{end}: {match}".format(matchNum = matchNum, start = match.start(), end = match.end(), match = match.group()))
+
+    for groupNum in range(0, len(match.groups())):
+        groupNum = groupNum + 1
+
+        print ("Group {groupNum} found at {start}-{end}: {group}".format(groupNum = groupNum, start = match.start(groupNum), end = match.end(groupNum), group = match.group(groupNum)))
+
+
+		#switch ip, match.group(2), match.group(4)

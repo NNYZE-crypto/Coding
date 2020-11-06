@@ -1,0 +1,14 @@
+import os
+import uuid
+import sys
+
+i = 1
+list = ""
+while i <= 20:
+    randomuuid = uuid.uuid1()
+    randomuuid = str(randomuuid)
+    print(randomuuid)
+    i = i+1
+    list += randomuuid + ":" + " 1"
+print(list)
+

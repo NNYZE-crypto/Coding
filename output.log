@@ -1,0 +1,1193 @@
+10.192.16.1
+VLAN 130: sh vlan Voice-Ph1Vl130
+    Primary IP:		 10.192.23.1/24
+    Ports:   28. 	  (Number of active ports=8)
+       Untag: *27(IMP-QoS-Voice-Ports)m,28(IMP-QoS-Voice-Ports)m
+VLAN 140: sh vlan ARGE-DMZ
+    Ports:   26. 	  (Number of active ports=7)
+VLAN 160: sh vlan ARGE-Clients
+    Ports:   29. 	  (Number of active ports=9)
+##################################################
+10.192.40.1
+VLAN 130: sh vlan Voice-Ph1Vl130
+    Ports:   5. 	  (Number of active ports=1)
+VLAN 140: sh vlan ARGE-DMZ
+    Ports:   5. 	  (Number of active ports=1)
+VLAN 160: sh vlan ARGE-Clients
+    Ports:   6. 	  (Number of active ports=2)
+##################################################
+10.192.48.1
+VLAN 130: sh vlan Voice-Ph1Vl130
+    Ports:   6. 	  (Number of active ports=1)
+VLAN 140: sh vlan ARGE-DMZ
+    Ports:   6. 	  (Number of active ports=1)
+VLAN 160: sh vlan ARGE-Clients
+    Ports:   8. 	  (Number of active ports=2)
+##################################################
+10.199.0.1
+VLAN 130: sh vlan Voice-Ph1Vl130
+    Ports:   5. 	  (Number of active ports=1)
+VLAN 140: sh vlan ARGE-DMZ
+    Ports:   7. 	  (Number of active ports=2)
+       Untag: 7(IMP_ARGE_DMZ)m
+VLAN 160: sh vlan ARGE-Clients
+    Ports:   6. 	  (Number of active ports=2)
+##################################################
+10.200.128.1
+##################################################
+10.200.176.1
+VLAN 130: sh vlan Voice-Ph1Vl130
+    Ports:   4. 	  (Number of active ports=0)
+VLAN 140: sh vlan ARGE-DMZ
+    Ports:   4. 	  (Number of active ports=0)
+VLAN 160: sh vlan ARGE-Clients
+    Ports:   5. 	  (Number of active ports=1)
+##################################################
+10.200.192.1
+VLAN 130: sh vlan Voice-Ph1Vl130
+    Ports:   4. 	  (Number of active ports=0)
+VLAN 140: sh vlan ARGE-DMZ
+    Ports:   4. 	  (Number of active ports=0)
+VLAN 160: sh vlan ARGE-Clients
+    Ports:   5. 	  (Number of active ports=1)
+##################################################
+10.200.216.1
+VLAN 130: sh vlan Voice-Ph1Vl130
+    Ports:   4. 	  (Number of active ports=0)
+VLAN 140: sh vlan ARGE-DMZ
+    Ports:   4. 	  (Number of active ports=0)
+VLAN 160: sh vlan ARGE-Clients
+    Ports:   5. 	  (Number of active ports=1)
+##################################################
+10.200.40.1
+VLAN 130: sh vlan Voice-Ph1Vl130
+    Ports:   26. 	  (Number of active ports=6)
+VLAN 140: sh vlan ARGE-DMZ
+    Ports:   26. 	  (Number of active ports=6)
+VLAN 160: sh vlan ARGE-Clients
+    Ports:   28. 	  (Number of active ports=7)
+##################################################
+10.200.56.1
+VLAN 130: sh vlan Voice-Ph1Vl130
+    Ports:   3. 	  (Number of active ports=1)
+VLAN 140: sh vlan ARGE-DMZ
+    Ports:   3. 	  (Number of active ports=1)
+VLAN 160: sh vlan ARGE-Clients
+    Ports:   5. 	  (Number of active ports=2)
+##################################################
+10.200.88.1
+VLAN 130: sh vlan Voice-Ph1Vl130
+    Ports:   5. 	  (Number of active ports=1)
+VLAN 140: sh vlan ARGE-DMZ
+    Ports:   5. 	  (Number of active ports=1)
+VLAN 160: sh vlan ARGE-Clients
+    Ports:   6. 	  (Number of active ports=2)
+##################################################
+10.201.0.1
+VLAN 130: sh vlan Voice-Ph1Vl130
+    Ports:   31. 	  (Number of active ports=7)
+VLAN 140: sh vlan ARGE-DMZ
+    Ports:   33. 	  (Number of active ports=8)
+VLAN 160: sh vlan ARGE-Clients
+    Ports:   33. 	  (Number of active ports=8)
+##################################################
+10.201.104.1
+VLAN 130: sh vlan Voice-Ph1Vl130
+    Ports:   4. 	  (Number of active ports=0)
+VLAN 140: sh vlan ARGE-DMZ
+    Ports:   5. 	  (Number of active ports=1)
+VLAN 160: sh vlan ARGE-Clients
+    Ports:   5. 	  (Number of active ports=1)
+##################################################
+10.201.112.1
+VLAN 130: sh vlan Voice-Ph1Vl130
+    Ports:   35. 	  (Number of active ports=8)
+VLAN 140: sh vlan ARGE-DMZ
+    Ports:   35. 	  (Number of active ports=8)
+VLAN 160: sh vlan ARGE-Clients
+    Ports:   36. 	  (Number of active ports=9)
+##################################################
+10.201.120.1
+VLAN 130: sh vlan Voice-Ph1Vl130
+    Ports:   6. 	  (Number of active ports=3)
+VLAN 140: sh vlan ARGE-DMZ
+    Ports:   7. 	  (Number of active ports=4)
+VLAN 160: sh vlan ARGE-Clients
+    Ports:   7. 	  (Number of active ports=4)
+##################################################
+10.201.128.1
+##################################################
+10.201.136.1
+VLAN 130: sh vlan Voice-Ph1Vl130
+    Ports:   4. 	  (Number of active ports=2)
+VLAN 140: sh vlan ARGE-DMZ
+    Ports:   4. 	  (Number of active ports=2)
+VLAN 160: sh vlan ARGE-Clients
+    Ports:   5. 	  (Number of active ports=3)
+##################################################
+10.201.144.1
+VLAN 130: sh vlan Voice-Ph1Vl130
+    Ports:   8. 	  (Number of active ports=0)
+VLAN 140: sh vlan ARGE-DMZ
+    Ports:   10. 	  (Number of active ports=2)
+VLAN 160: sh vlan ARGE-Clients
+    Ports:   9. 	  (Number of active ports=1)
+##################################################
+10.201.152.1
+VLAN 130: sh vlan Voice-Ph1Vl130
+    Ports:   4. 	  (Number of active ports=3)
+VLAN 140: sh vlan ARGE-DMZ
+    Ports:   5. 	  (Number of active ports=4)
+VLAN 160: sh vlan ARGE-Clients
+    Ports:   5. 	  (Number of active ports=4)
+##################################################
+10.201.16.1
+VLAN 130: sh vlan Voice-Ph1Vl130
+    Ports:   4. 	  (Number of active ports=3)
+VLAN 140: sh vlan ARGE-DMZ
+    Ports:   5. 	  (Number of active ports=4)
+VLAN 160: sh vlan ARGE-Clients
+    Ports:   5. 	  (Number of active ports=4)
+##################################################
+10.201.160.1
+VLAN 130: sh vlan Voice-Ph1Vl130
+    Ports:   4. 	  (Number of active ports=0)
+VLAN 140: sh vlan ARGE-DMZ
+    Ports:   5. 	  (Number of active ports=1)
+VLAN 160: sh vlan ARGE-Clients
+    Ports:   5. 	  (Number of active ports=1)
+##################################################
+10.201.168.1
+VLAN 130: sh vlan Voice-Ph1Vl130
+    Ports:   4. 	  (Number of active ports=0)
+VLAN 140: sh vlan ARGE-DMZ
+    Ports:   5. 	  (Number of active ports=1)
+VLAN 160: sh vlan ARGE-Clients
+    Ports:   5. 	  (Number of active ports=1)
+##################################################
+10.201.176.1
+VLAN 130: sh vlan Voice-Ph1Vl130
+    Ports:   0. 	  (Number of active ports=0)
+VLAN 140: sh vlan ARGE-DMZ
+    Ports:   3. 	  (Number of active ports=1)
+VLAN 160: sh vlan ARGE-Clients
+    Ports:   3. 	  (Number of active ports=1)
+##################################################
+10.201.192.1
+VLAN 130: sh vlan Voice-Ph1Vl130
+    Ports:   4. 	  (Number of active ports=0)
+VLAN 140: sh vlan ARGE-DMZ
+    Ports:   5. 	  (Number of active ports=1)
+VLAN 160: sh vlan ARGE-Clients
+    Ports:   5. 	  (Number of active ports=1)
+##################################################
+10.201.200.1
+VLAN 130: sh vlan Voice-Ph1Vl130
+    Ports:   4. 	  (Number of active ports=0)
+VLAN 140: sh vlan ARGE-DMZ
+    Ports:   5. 	  (Number of active ports=1)
+VLAN 160: sh vlan ARGE-Clients
+    Ports:   5. 	  (Number of active ports=1)
+##################################################
+10.201.208.1
+VLAN 130: sh vlan Voice-Ph1Vl130
+    Ports:   7. 	  (Number of active ports=3)
+VLAN 140: sh vlan ARGE-DMZ
+    Ports:   7. 	  (Number of active ports=3)
+VLAN 160: sh vlan ARGE-Clients
+    Ports:   9. 	  (Number of active ports=4)
+##################################################
+10.201.224.1
+VLAN 130: sh vlan Voice-Ph1Vl130
+    Ports:   4. 	  (Number of active ports=1)
+VLAN 140: sh vlan ARGE-DMZ
+    Ports:   5. 	  (Number of active ports=2)
+VLAN 160: sh vlan ARGE-Clients
+    Ports:   5. 	  (Number of active ports=2)
+##################################################
+10.201.232.1
+VLAN 130: sh vlan Voice-Ph1Vl130
+    Ports:   4. 	  (Number of active ports=1)
+VLAN 140: sh vlan ARGE-DMZ
+    Ports:   5. 	  (Number of active ports=2)
+VLAN 160: sh vlan ARGE-Clients
+    Ports:   5. 	  (Number of active ports=2)
+##################################################
+10.201.24.1
+VLAN 130: sh vlan Voice-Ph1Vl130
+    Ports:   4. 	  (Number of active ports=2)
+VLAN 140: sh vlan ARGE-DMZ
+    Ports:   5. 	  (Number of active ports=3)
+VLAN 160: sh vlan ARGE-Clients
+    Ports:   5. 	  (Number of active ports=3)
+##################################################
+10.201.240.1
+VLAN 130: sh vlan Voice-Ph1Vl130
+    Ports:   4. 	  (Number of active ports=0)
+VLAN 140: sh vlan ARGE-DMZ
+    Ports:   5. 	  (Number of active ports=1)
+VLAN 160: sh vlan ARGE-Clients
+    Ports:   5. 	  (Number of active ports=1)
+##################################################
+10.201.248.1
+VLAN 130: sh vlan Voice-Ph1Vl130
+    Ports:   2. 	  (Number of active ports=0)
+VLAN 140: sh vlan ARGE-DMZ
+    Ports:   3. 	  (Number of active ports=1)
+VLAN 160: sh vlan ARGE-Clients
+    Ports:   3. 	  (Number of active ports=1)
+##################################################
+10.201.32.1
+VLAN 130: sh vlan Voice-Ph1Vl130
+    Ports:   4. 	  (Number of active ports=0)
+VLAN 140: sh vlan ARGE-DMZ
+    Ports:   5. 	  (Number of active ports=1)
+VLAN 160: sh vlan ARGE-Clients
+    Ports:   5. 	  (Number of active ports=1)
+##################################################
+10.201.40.1
+VLAN 130: sh vlan Voice-Ph1Vl130
+    Ports:   5. 	  (Number of active ports=5)
+VLAN 140: sh vlan ARGE-DMZ
+    Ports:   12. 	  (Number of active ports=6)
+VLAN 160: sh vlan ARGE-Clients
+    Ports:   11. 	  (Number of active ports=6)
+##################################################
+10.201.48.1
+VLAN 130: sh vlan Voice-Ph1Vl130
+    Ports:   6. 	  (Number of active ports=2)
+VLAN 140: sh vlan ARGE-DMZ
+    Ports:   6. 	  (Number of active ports=2)
+VLAN 160: sh vlan ARGE-Clients
+    Ports:   7. 	  (Number of active ports=3)
+##################################################
+10.201.56.1
+VLAN 130: sh vlan Voice-Ph1Vl130
+    Ports:   0. 	  (Number of active ports=0)
+VLAN 140: sh vlan ARGE-DMZ
+    Ports:   13. 	  (Number of active ports=1)
+VLAN 160: sh vlan ARGE-Clients
+    Ports:   13. 	  (Number of active ports=1)
+##################################################
+10.201.64.1
+VLAN 130: sh vlan Voice-Ph1Vl130
+    Ports:   7. 	  (Number of active ports=0)
+VLAN 140: sh vlan ARGE-DMZ
+    Ports:   10. 	  (Number of active ports=2)
+VLAN 160: sh vlan ARGE-Clients
+    Ports:   9. 	  (Number of active ports=2)
+##################################################
+10.201.72.1
+VLAN 130: sh vlan Voice-Ph1Vl130
+    Ports:   8. 	  (Number of active ports=0)
+VLAN 140: sh vlan ARGE-DMZ
+    Ports:   10. 	  (Number of active ports=1)
+VLAN 160: sh vlan ARGE-Clients
+    Ports:   9. 	  (Number of active ports=1)
+##################################################
+10.201.80.1
+VLAN 130: sh vlan Voice-Ph1Vl130
+    Ports:   8. 	  (Number of active ports=3)
+VLAN 140: sh vlan ARGE-DMZ
+    Ports:   9. 	  (Number of active ports=4)
+VLAN 160: sh vlan ARGE-Clients
+    Ports:   9. 	  (Number of active ports=4)
+##################################################
+10.201.88.1
+VLAN 130: sh vlan Voice-Ph1Vl130
+    Ports:   2. 	  (Number of active ports=1)
+VLAN 140: sh vlan ARGE-DMZ
+    Ports:   3. 	  (Number of active ports=2)
+VLAN 160: sh vlan ARGE-Clients
+    Ports:   3. 	  (Number of active ports=2)
+##################################################
+10.201.96.1
+##################################################
+10.202.0.1
+VLAN 130: sh vlan Voice-Ph1Vl130
+    Ports:   1. 	  (Number of active ports=1)
+VLAN 140: sh vlan ARGE-DMZ
+    Ports:   5. 	  (Number of active ports=2)
+VLAN 160: sh vlan ARGE-Clients
+    Ports:   5. 	  (Number of active ports=2)
+##################################################
+10.202.104.1
+##################################################
+10.202.120.1
+VLAN 130: sh vlan Voice-Ph1Vl130
+    Ports:   52. 	  (Number of active ports=8)
+VLAN 140: sh vlan ARGE-DMZ
+    Ports:   52. 	  (Number of active ports=8)
+VLAN 160: sh vlan ARGE-Clients
+    Ports:   54. 	  (Number of active ports=9)
+##################################################
+10.202.128.1
+VLAN 130: sh vlan Voice-Ph1Vl130
+    Ports:   1. 	  (Number of active ports=0)
+VLAN 140: sh vlan ARGE-DMZ
+    Ports:   2. 	  (Number of active ports=1)
+VLAN 160: sh vlan ARGE-Clients
+    Ports:   2. 	  (Number of active ports=1)
+##################################################
+10.202.136.1
+VLAN 130: sh vlan Voice-Ph1Vl130
+    Ports:   3. 	  (Number of active ports=1)
+VLAN 140: sh vlan ARGE-DMZ
+    Ports:   3. 	  (Number of active ports=1)
+VLAN 160: sh vlan ARGE-Clients
+    Ports:   4. 	  (Number of active ports=2)
+##################################################
+10.202.144.1
+VLAN 130: sh vlan Voice-Ph1Vl130
+    Ports:   5. 	  (Number of active ports=1)
+VLAN 140: sh vlan ARGE-DMZ
+    Ports:   5. 	  (Number of active ports=1)
+VLAN 160: sh vlan ARGE-Clients
+    Ports:   7. 	  (Number of active ports=2)
+##################################################
+10.202.152.1
+VLAN 130: sh vlan Voice-Ph1Vl130
+    Ports:   4. 	  (Number of active ports=0)
+VLAN 140: sh vlan ARGE-DMZ
+    Ports:   4. 	  (Number of active ports=0)
+VLAN 160: sh vlan ARGE-Clients
+    Ports:   5. 	  (Number of active ports=1)
+##################################################
+10.202.16.1
+VLAN 130: sh vlan Voice-Ph1Vl130
+    Ports:   0. 	  (Number of active ports=0)
+VLAN 140: sh vlan ARGE-DMZ
+    Ports:   1. 	  (Number of active ports=1)
+VLAN 160: sh vlan ARGE-Clients
+    Ports:   1. 	  (Number of active ports=1)
+##################################################
+10.202.160.1
+VLAN 130: sh vlan Voice-Ph1Vl130
+    Ports:   6. 	  (Number of active ports=2)
+VLAN 140: sh vlan ARGE-DMZ
+    Ports:   6. 	  (Number of active ports=2)
+VLAN 160: sh vlan ARGE-Clients
+    Ports:   7. 	  (Number of active ports=3)
+##################################################
+10.202.24.1
+VLAN 130: sh vlan Voice-Ph1Vl130
+    Ports:   4. 	  (Number of active ports=0)
+VLAN 140: sh vlan ARGE-DMZ
+    Ports:   5. 	  (Number of active ports=1)
+VLAN 160: sh vlan ARGE-Clients
+    Ports:   5. 	  (Number of active ports=1)
+##################################################
+10.202.32.1
+VLAN 130: sh vlan Voice-Ph1Vl130
+    Ports:   5. 	  (Number of active ports=1)
+VLAN 140: sh vlan ARGE-DMZ
+    Ports:   5. 	  (Number of active ports=1)
+VLAN 160: sh vlan ARGE-Clients
+    Ports:   6. 	  (Number of active ports=2)
+##################################################
+10.202.40.1
+VLAN 130: sh vlan Voice-Ph1Vl130
+    Ports:   4. 	  (Number of active ports=0)
+VLAN 140: sh vlan ARGE-DMZ
+    Ports:   5. 	  (Number of active ports=1)
+VLAN 160: sh vlan ARGE-Clients
+    Ports:   5. 	  (Number of active ports=1)
+##################################################
+10.202.48.1
+VLAN 130: sh vlan Voice-Ph1Vl130
+    Ports:   1. 	  (Number of active ports=1)
+VLAN 140: sh vlan ARGE-DMZ
+    Ports:   2. 	  (Number of active ports=2)
+VLAN 160: sh vlan ARGE-Clients
+    Ports:   2. 	  (Number of active ports=2)
+##################################################
+10.202.56.1
+VLAN 130: sh vlan Voice-Ph1Vl130
+    Ports:   4. 	  (Number of active ports=0)
+VLAN 140: sh vlan ARGE-DMZ
+    Ports:   4. 	  (Number of active ports=0)
+VLAN 160: sh vlan ARGE-Clients
+    Ports:   5. 	  (Number of active ports=1)
+##################################################
+10.202.64.1
+VLAN 130: sh vlan Voice-Ph1Vl130
+    Ports:   5. 	  (Number of active ports=1)
+VLAN 140: sh vlan ARGE-DMZ
+    Ports:   5. 	  (Number of active ports=1)
+VLAN 160: sh vlan ARGE-Clients
+    Ports:   6. 	  (Number of active ports=2)
+##################################################
+10.202.72.1
+VLAN 130: sh vlan Voice-Ph1Vl130
+    Ports:   2. 	  (Number of active ports=0)
+VLAN 140: sh vlan ARGE-DMZ
+    Ports:   3. 	  (Number of active ports=1)
+VLAN 160: sh vlan ARGE-Clients
+    Ports:   3. 	  (Number of active ports=1)
+##################################################
+10.202.8.1
+##################################################
+10.202.88.1
+VLAN 130: sh vlan Voice-Ph1Vl130
+    Ports:   4. 	  (Number of active ports=0)
+VLAN 140: sh vlan ARGE-DMZ
+    Ports:   4. 	  (Number of active ports=0)
+VLAN 160: sh vlan ARGE-Clients
+    Ports:   5. 	  (Number of active ports=1)
+##################################################
+10.209.0.1
+VLAN 130: sh vlan Voice-Ph1Vl130
+    Ports:   6. 	  (Number of active ports=2)
+VLAN 140: sh vlan ARGE-DMZ
+    Ports:   7. 	  (Number of active ports=3)
+VLAN 160: sh vlan ARGE-Clients
+    Ports:   8. 	  (Number of active ports=4)
+##################################################
+10.210.0.1
+##################################################
+10.212.0.1
+VLAN 130: sh vlan Voice-Ph1Vl130
+    Primary IP:		 10.212.7.1/24
+    Ports:   7. 	  (Number of active ports=3)
+       Untag: *20(IMP-QoS-Voice-Ports)
+VLAN 140: sh vlan ARGE-DMZ
+    Ports:   6. 	  (Number of active ports=2)
+VLAN 160: sh vlan ARGE-Clients
+    Ports:   8. 	  (Number of active ports=4)
+##################################################
+10.214.8.1
+VLAN 130: sh vlan Voice-Ph1Vl130
+    Ports:   6. 	  (Number of active ports=2)
+VLAN 140: sh vlan ARGE-DMZ
+    Ports:   6. 	  (Number of active ports=2)
+VLAN 160: sh vlan ARGE-Clients
+    Ports:   7. 	  (Number of active ports=3)
+##################################################
+10.215.0.1
+VLAN 130: sh vlan Voice-Ph1Vl130
+    Ports:   4. 	  (Number of active ports=0)
+VLAN 140: sh vlan ARGE-DMZ
+    Ports:   10. 	  (Number of active ports=1)
+       Untag: 43(IMP_ARGE_DMZ)m,44(IMP_ARGE_DMZ)m,45(IMP_ARGE_DMZ)m,46(IMP_ARGE_DMZ)m,47(IMP_ARGE_DMZ)m
+VLAN 160: sh vlan ARGE-Clients
+    Ports:   5. 	  (Number of active ports=1)
+##################################################
+10.215.16.1
+VLAN 130: sh vlan Voice-Ph1Vl130
+    Ports:   6. 	  (Number of active ports=1)
+VLAN 140: sh vlan ARGE-DMZ
+    Ports:   7. 	  (Number of active ports=2)
+VLAN 160: sh vlan ARGE-Clients
+    Ports:   7. 	  (Number of active ports=2)
+##################################################
+10.215.24.1
+VLAN 130: sh vlan Voice-Ph1Vl130
+    Ports:   6. 	  (Number of active ports=0)
+VLAN 140: sh vlan ARGE-DMZ
+    Ports:   7. 	  (Number of active ports=1)
+VLAN 160: sh vlan ARGE-Clients
+    Ports:   7. 	  (Number of active ports=1)
+##################################################
+10.215.32.1
+VLAN 130: sh vlan Voice-Ph1Vl130
+    Ports:   6. 	  (Number of active ports=2)
+VLAN 140: sh vlan ARGE-DMZ
+    Ports:   7. 	  (Number of active ports=3)
+VLAN 160: sh vlan ARGE-Clients
+    Ports:   7. 	  (Number of active ports=3)
+##################################################
+10.215.40.1
+VLAN 130: sh vlan Voice-Ph1Vl130
+    Ports:   6. 	  (Number of active ports=0)
+VLAN 140: sh vlan ARGE-DMZ
+    Ports:   7. 	  (Number of active ports=1)
+VLAN 160: sh vlan ARGE-Clients
+    Ports:   8. 	  (Number of active ports=2)
+##################################################
+10.215.48.1
+VLAN 130: sh vlan Voice-Ph1Vl130
+    Ports:   6. 	  (Number of active ports=0)
+VLAN 140: sh vlan ARGE-DMZ
+    Ports:   7. 	  (Number of active ports=1)
+VLAN 160: sh vlan ARGE-Clients
+    Ports:   7. 	  (Number of active ports=1)
+##################################################
+10.215.56.1
+VLAN 130: sh vlan Voice-Ph1Vl130
+    Ports:   2. 	  (Number of active ports=2)
+VLAN 140: sh vlan ARGE-DMZ
+    Ports:   3. 	  (Number of active ports=3)
+VLAN 160: sh vlan ARGE-Clients
+    Ports:   3. 	  (Number of active ports=3)
+##################################################
+10.215.64.1
+VLAN 130: sh vlan Voice-Ph1Vl130
+    Ports:   6. 	  (Number of active ports=0)
+VLAN 140: sh vlan ARGE-DMZ
+    Ports:   6. 	  (Number of active ports=0)
+VLAN 160: sh vlan ARGE-Clients
+    Ports:   7. 	  (Number of active ports=1)
+##################################################
+10.215.72.1
+VLAN 130: sh vlan Voice-Ph1Vl130
+    Ports:   0. 	  (Number of active ports=0)
+VLAN 140: sh vlan ARGE-DMZ
+    Ports:   5. 	  (Number of active ports=1)
+VLAN 160: sh vlan ARGE-Clients
+    Ports:   5. 	  (Number of active ports=1)
+##################################################
+10.215.8.1
+VLAN 130: sh vlan Voice-Ph1Vl130
+    Ports:   4. 	  (Number of active ports=0)
+VLAN 140: sh vlan ARGE-DMZ
+    Ports:   7. 	  (Number of active ports=0)
+       Untag: 43(IMP_ARGE_DMZ)m,44(IMP_ARGE_DMZ)m,45(IMP_ARGE_DMZ)m
+VLAN 160: sh vlan ARGE-Clients
+    Ports:   21. 	  (Number of active ports=1)
+       Untag: 27(IMP_ARGE_Clients)m,28(IMP_ARGE_Clients)m,29(IMP_ARGE_Clients)m,30(IMP_ARGE_Clients)m,31(IMP_ARGE_Clients)m,32(IMP_ARGE_Clients)m,33(IMP_ARGE_Clients)m,
+##################################################
+10.215.80.1
+VLAN 130: sh vlan Voice-Ph1Vl130
+    Ports:   2. 	  (Number of active ports=0)
+VLAN 140: sh vlan ARGE-DMZ
+    Ports:   3. 	  (Number of active ports=1)
+VLAN 160: sh vlan ARGE-Clients
+    Ports:   3. 	  (Number of active ports=1)
+##################################################
+10.216.112.1
+VLAN 130: sh vlan Voice-Ph1Vl130
+    Ports:   34. 	  (Number of active ports=8)
+VLAN 140: sh vlan ARGE-DMZ
+    Ports:   34. 	  (Number of active ports=8)
+VLAN 160: sh vlan ARGE-Clients
+    Ports:   36. 	  (Number of active ports=9)
+##################################################
+10.216.128.1
+VLAN 130: sh vlan Voice-Ph1Vl130
+    Ports:   12. 	  (Number of active ports=6)
+VLAN 140: sh vlan ARGE-DMZ
+    Ports:   12. 	  (Number of active ports=6)
+VLAN 160: sh vlan ARGE-Clients
+    Ports:   15. 	  (Number of active ports=7)
+##################################################
+10.216.144.1
+VLAN 130: sh vlan Voice-Ph1Vl130
+    Ports:   29. 	  (Number of active ports=9)
+VLAN 140: sh vlan ARGE-DMZ
+    Ports:   31. 	  (Number of active ports=10)
+VLAN 160: sh vlan ARGE-Clients
+    Ports:   31. 	  (Number of active ports=10)
+##################################################
+10.216.32.1
+VLAN 130: sh vlan Voice-Ph1Vl130
+    Ports:   12. 	  (Number of active ports=1)
+VLAN 140: sh vlan ARGE-DMZ
+    Ports:   12. 	  (Number of active ports=1)
+VLAN 160: sh vlan ARGE-Clients
+    Ports:   14. 	  (Number of active ports=2)
+##################################################
+10.216.64.1
+VLAN 130: sh vlan Voice-Ph1Vl130
+    Ports:   1. 	  (Number of active ports=0)
+VLAN 140: sh vlan ARGE-DMZ
+    Ports:   2. 	  (Number of active ports=1)
+VLAN 160: sh vlan ARGE-Clients
+    Ports:   2. 	  (Number of active ports=1)
+##################################################
+10.216.72.1
+VLAN 130: sh vlan Voice-Ph1Vl130
+    Ports:   5. 	  (Number of active ports=1)
+VLAN 140: sh vlan ARGE-DMZ
+    Ports:   6. 	  (Number of active ports=2)
+VLAN 160: sh vlan ARGE-Clients
+    Ports:   6. 	  (Number of active ports=2)
+##################################################
+10.216.8.1
+VLAN 130: sh vlan Voice-Ph1Vl130
+    Ports:   0. 	  (Number of active ports=0)
+VLAN 140: sh vlan ARGE-DMZ
+    Ports:   0. 	  (Number of active ports=0)
+VLAN 160: sh vlan ARGE-Clients
+    Ports:   1. 	  (Number of active ports=1)
+##################################################
+10.216.80.1
+VLAN 130: sh vlan Voice-Ph1Vl130
+    Ports:   4. 	  (Number of active ports=0)
+VLAN 140: sh vlan ARGE-DMZ
+    Ports:   5. 	  (Number of active ports=1)
+VLAN 160: sh vlan ARGE-Clients
+    Ports:   5. 	  (Number of active ports=1)
+##################################################
+10.217.0.1
+VLAN 130: sh vlan Voice-Ph1Vl130
+    Ports:   2. 	  (Number of active ports=0)
+VLAN 140: sh vlan ARGE-DMZ
+    Ports:   3. 	  (Number of active ports=1)
+VLAN 160: sh vlan ARGE-Clients
+    Ports:   3. 	  (Number of active ports=1)
+##################################################
+10.217.104.1
+VLAN 130: sh vlan Voice-Ph1Vl130
+    Ports:   0. 	  (Number of active ports=0)
+VLAN 140: sh vlan ARGE-DMZ
+    Ports:   1. 	  (Number of active ports=1)
+VLAN 160: sh vlan ARGE-Clients
+    Ports:   1. 	  (Number of active ports=1)
+##################################################
+10.217.120.1
+VLAN 130: sh vlan Voice-Ph1Vl130
+    Ports:   3. 	  (Number of active ports=3)
+VLAN 140: sh vlan ARGE-DMZ
+    Ports:   4. 	  (Number of active ports=4)
+VLAN 160: sh vlan ARGE-Clients
+    Ports:   4. 	  (Number of active ports=4)
+##################################################
+10.217.128.1
+VLAN 130: sh vlan Voice-Ph1Vl130
+    Ports:   0. 	  (Number of active ports=0)
+VLAN 140: sh vlan ARGE-DMZ
+    Ports:   1. 	  (Number of active ports=1)
+VLAN 160: sh vlan ARGE-Clients
+    Ports:   1. 	  (Number of active ports=1)
+##################################################
+10.217.136.1
+VLAN 130: sh vlan Voice-Ph1Vl130
+    Ports:   0. 	  (Number of active ports=0)
+VLAN 140: sh vlan ARGE-DMZ
+    Ports:   3. 	  (Number of active ports=1)
+VLAN 160: sh vlan ARGE-Clients
+    Ports:   3. 	  (Number of active ports=1)
+##################################################
+10.217.144.1
+VLAN 130: sh vlan Voice-Ph1Vl130
+    Ports:   0. 	  (Number of active ports=0)
+VLAN 140: sh vlan ARGE-DMZ
+    Ports:   3. 	  (Number of active ports=1)
+VLAN 160: sh vlan ARGE-Clients
+    Ports:   3. 	  (Number of active ports=1)
+##################################################
+10.217.152.1
+VLAN 130: sh vlan Voice-Ph1Vl130
+    Ports:   14. 	  (Number of active ports=6)
+VLAN 140: sh vlan ARGE-DMZ
+    Ports:   16. 	  (Number of active ports=7)
+VLAN 160: sh vlan ARGE-Clients
+    Ports:   16. 	  (Number of active ports=7)
+##################################################
+10.217.160.1
+VLAN 130: sh vlan Voice-Ph1Vl130
+    Ports:   0. 	  (Number of active ports=0)
+VLAN 140: sh vlan ARGE-DMZ
+    Ports:   1. 	  (Number of active ports=1)
+VLAN 160: sh vlan ARGE-Clients
+    Ports:   1. 	  (Number of active ports=1)
+##################################################
+10.217.176.1
+VLAN 130: sh vlan Voice-Ph1Vl130
+    Ports:   0. 	  (Number of active ports=0)
+VLAN 140: sh vlan ARGE-DMZ
+    Ports:   1. 	  (Number of active ports=1)
+VLAN 160: sh vlan ARGE-Clients
+    Ports:   1. 	  (Number of active ports=1)
+##################################################
+10.217.184.1
+VLAN 130: sh vlan Voice-Ph1Vl130
+    Ports:   4. 	  (Number of active ports=3)
+VLAN 140: sh vlan ARGE-DMZ
+    Ports:   5. 	  (Number of active ports=4)
+VLAN 160: sh vlan ARGE-Clients
+    Ports:   5. 	  (Number of active ports=4)
+##################################################
+10.217.192.1
+VLAN 130: sh vlan Voice-Ph1Vl130
+    Ports:   0. 	  (Number of active ports=0)
+VLAN 140: sh vlan ARGE-DMZ
+    Ports:   1. 	  (Number of active ports=1)
+VLAN 160: sh vlan ARGE-Clients
+    Ports:   1. 	  (Number of active ports=1)
+##################################################
+10.217.200.1
+VLAN 130: sh vlan Voice-Ph1Vl130
+    Ports:   0. 	  (Number of active ports=0)
+VLAN 140: sh vlan ARGE-DMZ
+    Ports:   1. 	  (Number of active ports=1)
+VLAN 160: sh vlan ARGE-Clients
+    Ports:   1. 	  (Number of active ports=1)
+##################################################
+10.217.208.1
+VLAN 130: sh vlan Voice-Ph1Vl130
+    Ports:   0. 	  (Number of active ports=0)
+VLAN 140: sh vlan ARGE-DMZ
+    Ports:   1. 	  (Number of active ports=1)
+VLAN 160: sh vlan ARGE-Clients
+    Ports:   1. 	  (Number of active ports=1)
+##################################################
+10.217.216.1
+VLAN 130: sh vlan Voice-Ph1Vl130
+    Ports:   2. 	  (Number of active ports=0)
+VLAN 140: sh vlan ARGE-DMZ
+    Ports:   3. 	  (Number of active ports=1)
+VLAN 160: sh vlan ARGE-Clients
+    Ports:   3. 	  (Number of active ports=1)
+##################################################
+10.217.224.1
+VLAN 130: sh vlan Voice-Ph1Vl130
+    Ports:   0. 	  (Number of active ports=0)
+VLAN 140: sh vlan ARGE-DMZ
+    Ports:   0. 	  (Number of active ports=0)
+VLAN 160: sh vlan ARGE-Clients
+    Ports:   1. 	  (Number of active ports=1)
+##################################################
+10.217.232.1
+VLAN 130: sh vlan Voice-Ph1Vl130
+    Ports:   2. 	  (Number of active ports=2)
+VLAN 140: sh vlan ARGE-DMZ
+    Ports:   3. 	  (Number of active ports=3)
+VLAN 160: sh vlan ARGE-Clients
+    Ports:   3. 	  (Number of active ports=3)
+##################################################
+10.217.24.1
+VLAN 130: sh vlan Voice-Ph1Vl130
+    Ports:   1. 	  (Number of active ports=1)
+VLAN 140: sh vlan ARGE-DMZ
+    Ports:   2. 	  (Number of active ports=2)
+VLAN 160: sh vlan ARGE-Clients
+    Ports:   2. 	  (Number of active ports=2)
+##################################################
+10.217.240.1
+VLAN 130: sh vlan Voice-Ph1Vl130
+    Ports:   2. 	  (Number of active ports=0)
+VLAN 140: sh vlan ARGE-DMZ
+    Ports:   3. 	  (Number of active ports=1)
+VLAN 160: sh vlan ARGE-Clients
+    Ports:   3. 	  (Number of active ports=1)
+##################################################
+10.217.248.1
+VLAN 130: sh vlan Voice-Ph1Vl130
+    Ports:   8. 	  (Number of active ports=0)
+VLAN 140: sh vlan ARGE-DMZ
+    Ports:   9. 	  (Number of active ports=1)
+VLAN 160: sh vlan ARGE-Clients
+    Ports:   9. 	  (Number of active ports=1)
+##################################################
+10.217.32.1
+VLAN 130: sh vlan Voice-Ph1Vl130
+    Ports:   16. 	  (Number of active ports=7)
+VLAN 140: sh vlan ARGE-DMZ
+    Ports:   18. 	  (Number of active ports=8)
+VLAN 160: sh vlan ARGE-Clients
+    Ports:   18. 	  (Number of active ports=8)
+##################################################
+10.217.40.1
+VLAN 130: sh vlan Voice-Ph1Vl130
+    Ports:   3. 	  (Number of active ports=3)
+VLAN 140: sh vlan ARGE-DMZ
+    Ports:   4. 	  (Number of active ports=4)
+VLAN 160: sh vlan ARGE-Clients
+    Ports:   4. 	  (Number of active ports=4)
+##################################################
+10.217.48.1
+VLAN 130: sh vlan Voice-Ph1Vl130
+    Ports:   1. 	  (Number of active ports=1)
+VLAN 140: sh vlan ARGE-DMZ
+    Ports:   2. 	  (Number of active ports=2)
+VLAN 160: sh vlan ARGE-Clients
+    Ports:   2. 	  (Number of active ports=2)
+##################################################
+10.217.56.1
+##################################################
+10.217.64.1
+VLAN 130: sh vlan Voice-Ph1Vl130
+    Ports:   5. 	  (Number of active ports=1)
+VLAN 140: sh vlan ARGE-DMZ
+    Ports:   6. 	  (Number of active ports=2)
+VLAN 160: sh vlan ARGE-Clients
+    Ports:   6. 	  (Number of active ports=2)
+##################################################
+10.217.72.1
+VLAN 130: sh vlan Voice-Ph1Vl130
+    Ports:   1. 	  (Number of active ports=1)
+VLAN 140: sh vlan ARGE-DMZ
+    Ports:   2. 	  (Number of active ports=1)
+VLAN 160: sh vlan ARGE-Clients
+    Ports:   2. 	  (Number of active ports=1)
+##################################################
+10.217.80.1
+VLAN 130: sh vlan Voice-Ph1Vl130
+    Ports:   2. 	  (Number of active ports=2)
+VLAN 140: sh vlan ARGE-DMZ
+    Ports:   3. 	  (Number of active ports=3)
+VLAN 160: sh vlan ARGE-Clients
+    Ports:   4. 	  (Number of active ports=3)
+##################################################
+10.217.88.1
+VLAN 130: sh vlan Voice-Ph1Vl130
+    Ports:   2. 	  (Number of active ports=2)
+VLAN 140: sh vlan ARGE-DMZ
+    Ports:   3. 	  (Number of active ports=3)
+VLAN 160: sh vlan ARGE-Clients
+    Ports:   3. 	  (Number of active ports=3)
+##################################################
+10.218.0.1
+VLAN 130: sh vlan Voice-Ph1Vl130
+    Ports:   2. 	  (Number of active ports=1)
+VLAN 140: sh vlan ARGE-DMZ
+    Ports:   3. 	  (Number of active ports=2)
+VLAN 160: sh vlan ARGE-Clients
+    Ports:   3. 	  (Number of active ports=2)
+##################################################
+10.218.104.1
+VLAN 130: sh vlan Voice-Ph1Vl130
+    Ports:   1. 	  (Number of active ports=0)
+VLAN 140: sh vlan ARGE-DMZ
+    Ports:   2. 	  (Number of active ports=1)
+VLAN 160: sh vlan ARGE-Clients
+    Ports:   2. 	  (Number of active ports=1)
+##################################################
+10.218.112.1
+VLAN 130: sh vlan Voice-Ph1Vl130
+    Ports:   4. 	  (Number of active ports=0)
+VLAN 140: sh vlan ARGE-DMZ
+    Ports:   4. 	  (Number of active ports=0)
+VLAN 160: sh vlan ARGE-Clients
+    Ports:   5. 	  (Number of active ports=1)
+##################################################
+10.218.120.1
+VLAN 130: sh vlan Voice-Ph1Vl130
+    Ports:   0. 	  (Number of active ports=0)
+VLAN 140: sh vlan ARGE-DMZ
+    Ports:   3. 	  (Number of active ports=1)
+VLAN 160: sh vlan ARGE-Clients
+    Ports:   3. 	  (Number of active ports=1)
+##################################################
+10.218.128.1
+VLAN 130: sh vlan Voice-Ph1Vl130
+    Ports:   4. 	  (Number of active ports=0)
+VLAN 140: sh vlan ARGE-DMZ
+    Ports:   4. 	  (Number of active ports=0)
+VLAN 160: sh vlan ARGE-Clients
+    Ports:   5. 	  (Number of active ports=1)
+##################################################
+10.218.136.1
+VLAN 130: sh vlan Voice-Ph1Vl130
+    Ports:   2. 	  (Number of active ports=2)
+VLAN 140: sh vlan ARGE-DMZ
+    Ports:   3. 	  (Number of active ports=3)
+VLAN 160: sh vlan ARGE-Clients
+    Ports:   3. 	  (Number of active ports=3)
+##################################################
+10.218.144.1
+VLAN 130: sh vlan Voice-Ph1Vl130
+    Ports:   0. 	  (Number of active ports=0)
+VLAN 140: sh vlan ARGE-DMZ
+    Ports:   1. 	  (Number of active ports=1)
+VLAN 160: sh vlan ARGE-Clients
+    Ports:   1. 	  (Number of active ports=1)
+##################################################
+10.218.152.1
+VLAN 130: sh vlan Voice-Ph1Vl130
+    Ports:   16. 	  (Number of active ports=8)
+VLAN 140: sh vlan ARGE-DMZ
+    Ports:   16. 	  (Number of active ports=8)
+VLAN 160: sh vlan ARGE-Clients
+    Ports:   18. 	  (Number of active ports=9)
+##################################################
+10.218.16.1
+VLAN 130: sh vlan Voice-Ph1Vl130
+    Ports:   3. 	  (Number of active ports=3)
+VLAN 140: sh vlan ARGE-DMZ
+    Ports:   3. 	  (Number of active ports=3)
+VLAN 160: sh vlan ARGE-Clients
+    Ports:   4. 	  (Number of active ports=4)
+##################################################
+10.218.168.1
+VLAN 130: sh vlan Voice-Ph1Vl130
+    Ports:   1. 	  (Number of active ports=1)
+VLAN 140: sh vlan ARGE-DMZ
+    Ports:   2. 	  (Number of active ports=2)
+VLAN 160: sh vlan ARGE-Clients
+    Ports:   2. 	  (Number of active ports=2)
+##################################################
+10.218.176.1
+VLAN 130: sh vlan Voice-Ph1Vl130
+    Ports:   0. 	  (Number of active ports=0)
+VLAN 140: sh vlan ARGE-DMZ
+    Ports:   1. 	  (Number of active ports=1)
+VLAN 160: sh vlan ARGE-Clients
+    Ports:   1. 	  (Number of active ports=1)
+##################################################
+10.218.184.1
+VLAN 130: sh vlan Voice-Ph1Vl130
+    Ports:   0. 	  (Number of active ports=0)
+VLAN 140: sh vlan ARGE-DMZ
+    Ports:   0. 	  (Number of active ports=0)
+VLAN 160: sh vlan ARGE-Clients
+    Ports:   0. 	  (Number of active ports=0)
+##################################################
+10.218.192.1
+VLAN 130: sh vlan Voice-Ph1Vl130
+    Ports:   25. 	  (Number of active ports=6)
+VLAN 140: sh vlan ARGE-DMZ
+    Ports:   28. 	  (Number of active ports=7)
+VLAN 160: sh vlan ARGE-Clients
+    Ports:   28. 	  (Number of active ports=7)
+##################################################
+10.218.208.1
+VLAN 130: sh vlan Voice-Ph1Vl130
+    Ports:   0. 	  (Number of active ports=0)
+VLAN 140: sh vlan ARGE-DMZ
+    Ports:   0. 	  (Number of active ports=0)
+VLAN 160: sh vlan ARGE-Clients
+    Ports:   0. 	  (Number of active ports=0)
+##################################################
+10.218.216.1
+VLAN 130: sh vlan Voice-Ph1Vl130
+    Ports:   2. 	  (Number of active ports=0)
+VLAN 140: sh vlan ARGE-DMZ
+    Ports:   3. 	  (Number of active ports=1)
+VLAN 160: sh vlan ARGE-Clients
+    Ports:   3. 	  (Number of active ports=1)
+##################################################
+10.218.224.1
+VLAN 130: sh vlan Voice-Ph1Vl130
+    Ports:   0. 	  (Number of active ports=0)
+VLAN 140: sh vlan ARGE-DMZ
+    Ports:   1. 	  (Number of active ports=1)
+VLAN 160: sh vlan ARGE-Clients
+    Ports:   1. 	  (Number of active ports=1)
+##################################################
+10.218.232.1
+VLAN 130: sh vlan Voice-Ph1Vl130
+    Ports:   3. 	  (Number of active ports=1)
+VLAN 140: sh vlan ARGE-DMZ
+    Ports:   4. 	  (Number of active ports=2)
+VLAN 160: sh vlan ARGE-Clients
+    Ports:   4. 	  (Number of active ports=2)
+##################################################
+10.218.24.1
+VLAN 130: sh vlan Voice-Ph1Vl130
+    Ports:   1. 	  (Number of active ports=0)
+VLAN 140: sh vlan ARGE-DMZ
+    Ports:   2. 	  (Number of active ports=1)
+VLAN 160: sh vlan ARGE-Clients
+    Ports:   2. 	  (Number of active ports=1)
+##################################################
+10.218.240.1
+VLAN 130: sh vlan Voice-Ph1Vl130
+    Ports:   1. 	  (Number of active ports=1)
+VLAN 140: sh vlan ARGE-DMZ
+    Ports:   2. 	  (Number of active ports=2)
+VLAN 160: sh vlan ARGE-Clients
+    Ports:   2. 	  (Number of active ports=2)
+##################################################
+10.218.32.1
+VLAN 130: sh vlan Voice-Ph1Vl130
+    Ports:   8. 	  (Number of active ports=4)
+VLAN 140: sh vlan ARGE-DMZ
+    Ports:   9. 	  (Number of active ports=5)
+VLAN 160: sh vlan ARGE-Clients
+    Ports:   9. 	  (Number of active ports=5)
+##################################################
+10.218.40.1
+VLAN 130: sh vlan Voice-Ph1Vl130
+    Ports:   0. 	  (Number of active ports=0)
+VLAN 140: sh vlan ARGE-DMZ
+    Ports:   1. 	  (Number of active ports=1)
+VLAN 160: sh vlan ARGE-Clients
+    Ports:   1. 	  (Number of active ports=1)
+##################################################
+10.218.48.1
+VLAN 130: sh vlan Voice-Ph1Vl130
+    Ports:   5. 	  (Number of active ports=0)
+VLAN 140: sh vlan ARGE-DMZ
+    Ports:   6. 	  (Number of active ports=1)
+VLAN 160: sh vlan ARGE-Clients
+    Ports:   6. 	  (Number of active ports=1)
+##################################################
+10.218.56.1
+VLAN 130: sh vlan Voice-Ph1Vl130
+    Ports:   0. 	  (Number of active ports=0)
+VLAN 140: sh vlan ARGE-DMZ
+    Ports:   1. 	  (Number of active ports=1)
+VLAN 160: sh vlan ARGE-Clients
+    Ports:   1. 	  (Number of active ports=1)
+##################################################
+10.218.64.1
+VLAN 130: sh vlan Voice-Ph1Vl130
+    Ports:   0. 	  (Number of active ports=0)
+VLAN 140: sh vlan ARGE-DMZ
+    Ports:   1. 	  (Number of active ports=1)
+VLAN 160: sh vlan ARGE-Clients
+    Ports:   1. 	  (Number of active ports=1)
+##################################################
+10.218.72.1
+VLAN 130: sh vlan Voice-Ph1Vl130
+    Ports:   4. 	  (Number of active ports=0)
+VLAN 140: sh vlan ARGE-DMZ
+    Ports:   5. 	  (Number of active ports=1)
+VLAN 160: sh vlan ARGE-Clients
+    Ports:   5. 	  (Number of active ports=1)
+##################################################
+10.218.8.1
+VLAN 130: sh vlan Voice-Ph1Vl130
+    Ports:   5. 	  (Number of active ports=0)
+VLAN 140: sh vlan ARGE-DMZ
+    Ports:   10. 	  (Number of active ports=1)
+       Untag: 6(IMP_ARGE_DMZ)m,7(IMP_ARGE_DMZ)m,8(IMP_ARGE_DMZ)m,9(IMP_ARGE_DMZ)m
+VLAN 160: sh vlan ARGE-Clients
+    Ports:   6. 	  (Number of active ports=1)
+##################################################
+10.218.80.1
+VLAN 130: sh vlan Voice-Ph1Vl130
+    Ports:   0. 	  (Number of active ports=0)
+VLAN 140: sh vlan ARGE-DMZ
+    Ports:   1. 	  (Number of active ports=1)
+VLAN 160: sh vlan ARGE-Clients
+    Ports:   1. 	  (Number of active ports=1)
+##################################################
+10.218.88.1
+VLAN 130: sh vlan Voice-Ph1Vl130
+    Ports:   0. 	  (Number of active ports=0)
+VLAN 140: sh vlan ARGE-DMZ
+    Ports:   1. 	  (Number of active ports=1)
+VLAN 160: sh vlan ARGE-Clients
+    Ports:   1. 	  (Number of active ports=1)
+##################################################
+10.218.96.1
+VLAN 130: sh vlan Voice-Ph1Vl130
+    Ports:   1. 	  (Number of active ports=1)
+VLAN 140: sh vlan ARGE-DMZ
+    Ports:   2. 	  (Number of active ports=2)
+VLAN 160: sh vlan ARGE-Clients
+    Ports:   2. 	  (Number of active ports=2)
+##################################################
+10.65.24.1
+VLAN 130: sh vlan Voice-Ph1Vl130
+    Ports:   4. 	  (Number of active ports=0)
+VLAN 140: sh vlan ARGE-DMZ
+    Ports:   4. 	  (Number of active ports=0)
+VLAN 160: sh vlan ARGE-Clients
+    Ports:   5. 	  (Number of active ports=1)
+##################################################
+10.72.0.1
+##################################################
+10.72.128.1
+VLAN 130: sh vlan Voice-Ph1Vl130
+    Ports:   4. 	  (Number of active ports=0)
+VLAN 140: sh vlan ARGE-DMZ
+    Primary IP:		 10.72.135.1/24
+    Ports:   4. 	  (Number of active ports=0)
+VLAN 160: sh vlan ARGE-Clients
+    Primary IP:		 192.168.8.1/24
+    Ports:   5. 	  (Number of active ports=1)
+##################################################
+10.72.136.1
+##################################################
+10.72.144.1
+VLAN 130: sh vlan Voice-Ph1Vl130
+    Primary IP:		 192.168.2.1/24
+    Ports:   1. 	  (Number of active ports=1)
+VLAN 140: sh vlan ARGE-DMZ
+    Primary IP:		 10.72.151.1/24
+    Ports:   2. 	  (Number of active ports=2)
+VLAN 160: sh vlan ARGE-Clients
+    Primary IP:		 192.168.8.1/24
+    Ports:   2. 	  (Number of active ports=2)
+##################################################
+10.72.16.1
+##################################################
+10.72.168.1
+VLAN 130: sh vlan Voice-Ph1Vl130
+    Ports:   3. 	  (Number of active ports=1)
+VLAN 140: sh vlan ARGE-DMZ
+    Ports:   5. 	  (Number of active ports=3)
+VLAN 160: sh vlan ARGE-Clients
+    Ports:   4. 	  (Number of active ports=2)
+##################################################
+10.72.176.1
+VLAN 130: sh vlan Voice-Ph1Vl130
+    Ports:   4. 	  (Number of active ports=0)
+VLAN 140: sh vlan ARGE-DMZ
+    Ports:   5. 	  (Number of active ports=1)
+VLAN 160: sh vlan ARGE-Clients
+    Ports:   5. 	  (Number of active ports=1)
+##################################################
+10.72.184.1
+VLAN 130: sh vlan Voice-Ph1Vl130
+    Primary IP:		 130.130.130.130/24
+    Ports:   4. 	  (Number of active ports=0)
+VLAN 140: sh vlan ARGE-DMZ
+    Primary IP:		 10.72.191.1/24
+    Ports:   5. 	  (Number of active ports=1)
+VLAN 160: sh vlan ARGE-Clients
+    Ports:   5. 	  (Number of active ports=1)
+##################################################
+10.72.40.1
+##################################################
+10.72.48.1
+VLAN 130: sh vlan Voice-Ph1Vl130
+    Ports:   4. 	  (Number of active ports=0)
+VLAN 140: sh vlan ARGE-DMZ
+    Primary IP:		 10.72.55.1/24
+    Ports:   4. 	  (Number of active ports=0)
+VLAN 160: sh vlan ARGE-Clients
+    Primary IP:		 192.168.8.1/24
+    Ports:   5. 	  (Number of active ports=1)
+##################################################
+10.72.8.1
+##################################################
+10.72.88.1
+VLAN 130: sh vlan Voice-Ph1Vl130
+    Ports:   7. 	  (Number of active ports=4)
+VLAN 140: sh vlan ARGE-DMZ
+    Primary IP:		 10.72.95.1/24
+    Ports:   8. 	  (Number of active ports=5)
+VLAN 160: sh vlan ARGE-Clients
+    Ports:   10. 	  (Number of active ports=5)
+       Untag: 6(IMP_ARGE_Clients)m,40(IMP_ARGE_Clients)m
+##################################################
+10.87.16.1
+VLAN 130: sh vlan Voice-Ph1Vl130
+    Ports:   5. 	  (Number of active ports=1)
+VLAN 140: sh vlan ARGE-DMZ
+    Ports:   5. 	  (Number of active ports=1)
+VLAN 160: sh vlan ARGE-Clients
+    Ports:   6. 	  (Number of active ports=2)
+##################################################
+10.87.24.1
+VLAN 130: sh vlan Voice-Ph1Vl130
+    Ports:   6. 	  (Number of active ports=2)
+VLAN 140: sh vlan ARGE-DMZ
+    Ports:   8. 	  (Number of active ports=3)
+       Untag: 12(IMP_ARGE_DMZ)m
+VLAN 160: sh vlan ARGE-Clients
+    Ports:   7. 	  (Number of active ports=3)
+##################################################
+10.87.8.1
+VLAN 130: sh vlan Voice-Ph1Vl130
+    Ports:   0. 	  (Number of active ports=0)
+VLAN 140: sh vlan ARGE-DMZ
+    Primary IP:		 10.87.15.1/24
+    Ports:   5. 	  (Number of active ports=0)
+       Untag: 1:20(IMP_ARGE_DMZ)m,1:21(IMP_ARGE_DMZ)m,1:22(IMP_ARGE_DMZ)m,1:23(IMP_ARGE_DMZ)m,1:24(IMP_ARGE_DMZ)m
+VLAN 160: sh vlan ARGE-Clients
+    Ports:   1. 	  (Number of active ports=1)
+##################################################
+10.95.56.1
+VLAN 130: sh vlan Voice-Ph1Vl130
+    Ports:   4. 	  (Number of active ports=0)
+VLAN 140: sh vlan ARGE-DMZ
+    Ports:   4. 	  (Number of active ports=0)
+VLAN 160: sh vlan ARGE-Clients
+    Ports:   5. 	  (Number of active ports=1)
+##################################################
+10.95.72.1
+VLAN 130: sh vlan Voice-Ph1Vl130
+    Ports:   4. 	  (Number of active ports=0)
+VLAN 140: sh vlan ARGE-DMZ
+    Primary IP:		 10.95.79.1/24
+    Ports:   21. 	  (Number of active ports=4)
+       Untag: 17(IMP_ARGE_DMZ)m,18(IMP_ARGE_DMZ)m,19(IMP_ARGE_DMZ)m,20(IMP_ARGE_DMZ)m,*21(IMP_ARGE_DMZ)m,*22(IMP_ARGE_DMZ)m,23(IMP_ARGE_DMZ)m,
+VLAN 160: sh vlan ARGE-Clients
+    Ports:   5. 	  (Number of active ports=1)
+##################################################
